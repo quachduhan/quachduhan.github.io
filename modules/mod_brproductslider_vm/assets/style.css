@@ -1,0 +1,42 @@
+/**
+ * @package     Modules.BrProductSlider_VM
+ * @since       November 2014
+ * @author      BlackRed Designs http://www.blackredesigns.com
+ * @copyright   Copyright (C) 2014 BlackRed Designs. All rights reserved.
+ * @license     GNU General Public License version 2 or later; see LICENSE.txt
+ * BlackRed Product Slider Module for VirtueMart is a fully responsive slider to display VirtueMart's products.
+ * BrGoPicKr is using Slick - a jQuery plugin http://kenwheeler.github.io/slick/
+ *  and based on mod_virtuemart_product (c) VirtueMart  http://www.virtuemart.net
+ */
+
+.mod_brproductslider_vm .slick-prev:before,
+.mod_brproductslider_vm .slick-next:before{
+    color: rgba(0,0,0,0.5);
+}
+.mod_brproductslider_vm .br-product{
+    text-align: center;
+    position: relative;
+}
+.mod_brproductslider_vm .br-product .br-product-image{
+    margin: 0 auto;
+}
+.mod_brproductslider_vm .br-product .br-product-name{
+    display: block;
+    padding: 5px 0;
+    margin: 0;
+}
+.mod_brproductslider_vm .br-product .br-product-price{
+    padding: 5px 0;
+    margin: 0;
+}
+.mod_brproductslider_vm .br-product .br-product-price span{
+    font-size: 110%;
+}
+.mod_brproductslider_vm .br-product .addtocart-area{
+    padding: 5px 0;
+    margin: 0;
+}
+.mod_brproductslider_vm .br-product .addtocart-bar{
+    position: relative;
+    bottom: auto;
+}

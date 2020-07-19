@@ -1,0 +1,30 @@
+.footer-sitemap-menu > ul {
+    display: inline-block;
+    margin: 20px 0px 20px 0px;
+    width: 33%;
+}
+@media (max-width: 479px){
+    .footer-sitemap-menu > ul {width: 49%;}
+}
+.footer-sitemap-menu > ul > li {
+    display: block;
+    text-align: center;
+}
+.footer-sitemap-menu .level0 {
+    font-size: 1.125em;
+    font-weight: bold;
+    color: #FFF;
+}
+.footer-sitemap-menu .level0 a {
+    font-size: 1.125em;
+}
+.footer-sitemap-menu .level1 a {
+    font-size: 1em;
+    font-weight: normal;
+    color: #FFF;
+}
+.footer-sitemap-menu .level2 a {
+    font-size: 0.875em;
+    font-weight: normal;
+    color: #FFF;
+}
