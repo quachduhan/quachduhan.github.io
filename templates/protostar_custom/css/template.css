@@ -6220,8 +6220,8 @@ div.modal.fade.in {
 }
 @font-face {
 	font-family: 'IcoMoon';
-	src: url('https://www.nguyenteacoffee.com/media/jui/fonts/IcoMoon.eot');
-	src: url('https://www.nguyenteacoffee.com/media/jui/fonts/IcoMoon.eot?#iefix') format('embedded-opentype'), url('https://www.nguyenteacoffee.com/media/jui/fonts/IcoMoon.woff') format('woff'), url('https://www.nguyenteacoffee.com/media/jui/fonts/IcoMoon.ttf') format('truetype'), url('https://www.nguyenteacoffee.com/media/jui/fonts/IcoMoon.svg#IcoMoon') format('svg');
+	src: url('https://nguyenteacoffee.com/media/jui/fonts/IcoMoon.eot');
+	src: url('https://nguyenteacoffee.com/media/jui/fonts/IcoMoon.eot?#iefix') format('embedded-opentype'), url('https://nguyenteacoffee.com/media/jui/fonts/IcoMoon.woff') format('woff'), url('https://nguyenteacoffee.com/media/jui/fonts/IcoMoon.ttf') format('truetype'), url('https://nguyenteacoffee.com/media/jui/fonts/IcoMoon.svg#IcoMoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
